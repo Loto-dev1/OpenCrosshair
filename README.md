@@ -2,31 +2,43 @@
 
 # 🎯 OpenCrosshair
 
-**An upcoming open-source, zero-latency crosshair overlay built natively for Linux.**
+**An upcoming open-source, zero-latency crosshair overlay built natively in Python for Linux.**
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20(Wayland%20%26%20X11)-orange.svg?style=flat-square&logo=linux&logoColor=white)](https://kernel.org)
-[![Tech](https://img.shields.io/badge/Tech-Tauri%20v2%20%2B%20Rust-red.svg?style=flat-square&logo=rust&logoColor=white)](https://v2.tauri.app)
+[![Status](https://img.shields.io/badge/Status-Early%20Alpha-orange)]()
+[![Platform](https://img.shields.io/badge/Platform-Linux%20(Wayland%20%26%20X11)-blue)]()
+[![License](https://img.shields.io/badge/License-GPL--3.0-green)]()
 
 </div>
 
 ---
 
-## 🚧 Status: In Early Development
+## ⚠️ Status: In Early Development
 
-OpenCrosshair is currently being built from scratch. The goal is to create a super lightweight crosshair overlay for Linux (Wayland & X11) that uses almost zero RAM/CPU and runs without any tracking or accounts.
+**OpenCrosshair** is currently being rewritten and built from scratch using **Python**. The goal is to create an ultra-lightweight, native crosshair overlay for Linux that uses almost zero system resources, requires no telemetry or accounts, and runs smoothly across different window managers and display servers.
 
-### 🎯 Planned Features
-* ⚡ **Native Performance:** Written in Rust & Tauri v2.
-* 🐧 **Linux Support:** Works on Hyprland, KDE, GNOME, Sway, and X11.
-* 🖱️ **Hardware Click-Through:** Clicks pass straight through to your game.
-* 🎨 **Customization:** Colors, size, gap, outlines, and opacity controls.
-* 🔒 **100% Private:** No accounts, no telemetry, no tracking.
+*Note: There are no official binaries or releases yet. The project is in an early alpha stage (source code only).*
 
 ---
 
-## 🛣️ Roadmap
-- [x] Repository setup & Architecture design
-- [ ] Phase 2: Core Tauri v2 transparent overlay (Rust)
-- [ ] Phase 3: Crosshair editor UI & Preset sharing
-- [ ] Phase 4: Flathub & AppImage releases
+## 🚀 Planned Features
+
+* **🐍 Native Python Core:** Lightweight, fast, and easy to run/modify directly from source.
+* **🐧 Linux First:** Optimized natively for Wayland and X11 sessions (GNOME, KDE, Hyprland, Sway, etc.).
+* **⌨️ Click-Through Support:** Mouse inputs pass straight through the overlay directly into your game.
+* **🎨 Customization:** Adjust colors, sizes, shapes, outlines, and gap spacing.
+* **🛡️ 100% Private:** No accounts, no telemetry, no tracking, and zero anti-cheat friction.
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Repository setup & architecture design
+- [ ] Core Python transparent overlay implementation
+- [ ] Crosshair editor UI & preset saving
+- [ ] Packaging (Flatpak / AppImage) & stable releases
+
+---
+
+## 📜 License
+
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
