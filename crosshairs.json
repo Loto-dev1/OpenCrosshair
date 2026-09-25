@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "preset_001",
+    "name": "Competitive Lime Cross #1",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_002",
+    "name": "Minimal Lime Cross #2",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_003",
+    "name": "Tactical Lime Cross #3",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_004",
+    "name": "Pro Gaming Lime Cross #4",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_005",
+    "name": "Classic Lime Cross #5",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_006",
+    "name": "Broad Lime Cross #6",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_007",
+    "name": "Competitive Lime Cross #7",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_008",
+    "name": "Minimal Lime Cross #8",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_009",
+    "name": "Tactical Lime Cross #9",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_010",
+    "name": "Pro Gaming Lime Cross #10",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_011",
+    "name": "Classic Lime Cross #11",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_012",
+    "name": "Broad Lime Cross #12",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_013",
+    "name": "Competitive Lime Cross #13",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_014",
+    "name": "Minimal Lime Cross #14",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_015",
+    "name": "Tactical Lime Cross #15",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_016",
+    "name": "Pro Gaming Red Cross #16",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_017",
+    "name": "Classic Red Cross #17",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_018",
+    "name": "Broad Red Cross #18",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_019",
+    "name": "Competitive Red Cross #19",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_020",
+    "name": "Minimal Red Cross #20",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_021",
+    "name": "Tactical Red Cross #21",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_022",
+    "name": "Pro Gaming Red Cross #22",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_023",
+    "name": "Classic Red Cross #23",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_024",
+    "name": "Broad Red Cross #24",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_025",
+    "name": "Competitive Red Cross #25",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_026",
+    "name": "Minimal Red Cross #26",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_027",
+    "name": "Tactical Red Cross #27",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_028",
+    "name": "Pro Gaming Red Cross #28",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_029",
+    "name": "Classic Red Cross #29",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_030",
+    "name": "Broad Red Cross #30",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_031",
+    "name": "Competitive Cyan Cross #31",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_032",
+    "name": "Minimal Cyan Cross #32",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_033",
+    "name": "Tactical Cyan Cross #33",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_034",
+    "name": "Pro Gaming Cyan Cross #34",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_035",
+    "name": "Classic Cyan Cross #35",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_036",
+    "name": "Broad Cyan Cross #36",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_037",
+    "name": "Competitive Cyan Cross #37",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_038",
+    "name": "Minimal Cyan Cross #38",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_039",
+    "name": "Tactical Cyan Cross #39",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_040",
+    "name": "Pro Gaming Cyan Cross #40",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_041",
+    "name": "Classic Cyan Cross #41",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_042",
+    "name": "Broad Cyan Cross #42",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_043",
+    "name": "Competitive Cyan Cross #43",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_044",
+    "name": "Minimal Cyan Cross #44",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_045",
+    "name": "Tactical Cyan Cross #45",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_046",
+    "name": "Pro Gaming Yellow Cross #46",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_047",
+    "name": "Classic Yellow Cross #47",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_048",
+    "name": "Broad Yellow Cross #48",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_049",
+    "name": "Competitive Yellow Cross #49",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_050",
+    "name": "Minimal Yellow Cross #50",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_051",
+    "name": "Tactical Yellow Cross #51",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_052",
+    "name": "Pro Gaming Yellow Cross #52",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_053",
+    "name": "Classic Yellow Cross #53",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_054",
+    "name": "Broad Yellow Cross #54",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_055",
+    "name": "Competitive Yellow Cross #55",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_056",
+    "name": "Minimal Yellow Cross #56",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_057",
+    "name": "Tactical Yellow Cross #57",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_058",
+    "name": "Pro Gaming Yellow Cross #58",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_059",
+    "name": "Classic Yellow Cross #59",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_060",
+    "name": "Broad Yellow Cross #60",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_061",
+    "name": "Competitive Purple Cross #61",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_062",
+    "name": "Minimal Purple Cross #62",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_063",
+    "name": "Tactical Purple Cross #63",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_064",
+    "name": "Pro Gaming Purple Cross #64",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_065",
+    "name": "Classic Purple Cross #65",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_066",
+    "name": "Broad Purple Cross #66",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_067",
+    "name": "Competitive Purple Cross #67",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_068",
+    "name": "Minimal Purple Cross #68",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_069",
+    "name": "Tactical Purple Cross #69",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_070",
+    "name": "Pro Gaming Purple Cross #70",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_071",
+    "name": "Classic Purple Cross #71",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_072",
+    "name": "Broad Purple Cross #72",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_073",
+    "name": "Competitive Purple Cross #73",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_074",
+    "name": "Minimal Purple Cross #74",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_075",
+    "name": "Tactical Purple Cross #75",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_076",
+    "name": "Pro Gaming White Cross #76",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_077",
+    "name": "Classic White Cross #77",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_078",
+    "name": "Broad White Cross #78",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_079",
+    "name": "Competitive White Cross #79",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_080",
+    "name": "Minimal White Cross #80",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_081",
+    "name": "Tactical White Cross #81",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_082",
+    "name": "Pro Gaming White Cross #82",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_083",
+    "name": "Classic White Cross #83",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_084",
+    "name": "Broad White Cross #84",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_085",
+    "name": "Competitive White Cross #85",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_086",
+    "name": "Minimal White Cross #86",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_087",
+    "name": "Tactical White Cross #87",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_088",
+    "name": "Pro Gaming White Cross #88",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_089",
+    "name": "Classic White Cross #89",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_090",
+    "name": "Broad White Cross #90",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_091",
+    "name": "Competitive Orange Cross #91",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_092",
+    "name": "Minimal Orange Cross #92",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_093",
+    "name": "Tactical Orange Cross #93",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_094",
+    "name": "Pro Gaming Orange Cross #94",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_095",
+    "name": "Classic Orange Cross #95",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_096",
+    "name": "Broad Orange Cross #96",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_097",
+    "name": "Competitive Orange Cross #97",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_098",
+    "name": "Minimal Orange Cross #98",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_099",
+    "name": "Tactical Orange Cross #99",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_100",
+    "name": "Pro Gaming Orange Cross #100",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_101",
+    "name": "Classic Orange Cross #101",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_102",
+    "name": "Broad Orange Cross #102",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_103",
+    "name": "Competitive Orange Cross #103",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_104",
+    "name": "Minimal Orange Cross #104",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_105",
+    "name": "Tactical Orange Cross #105",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_106",
+    "name": "Pro Gaming Pink Cross #106",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_107",
+    "name": "Classic Pink Cross #107",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_108",
+    "name": "Broad Pink Cross #108",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_109",
+    "name": "Competitive Pink Cross #109",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_110",
+    "name": "Minimal Pink Cross #110",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_111",
+    "name": "Tactical Pink Cross #111",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_112",
+    "name": "Pro Gaming Pink Cross #112",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_113",
+    "name": "Classic Pink Cross #113",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_114",
+    "name": "Broad Pink Cross #114",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_115",
+    "name": "Competitive Pink Cross #115",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_116",
+    "name": "Minimal Pink Cross #116",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_117",
+    "name": "Tactical Pink Cross #117",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_118",
+    "name": "Pro Gaming Pink Cross #118",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_119",
+    "name": "Classic Pink Cross #119",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_120",
+    "name": "Broad Pink Cross #120",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_121",
+    "name": "Competitive Mint Cross #121",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_122",
+    "name": "Minimal Mint Cross #122",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_123",
+    "name": "Tactical Mint Cross #123",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_124",
+    "name": "Pro Gaming Mint Cross #124",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_125",
+    "name": "Classic Mint Cross #125",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_126",
+    "name": "Broad Mint Cross #126",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_127",
+    "name": "Competitive Mint Cross #127",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_128",
+    "name": "Minimal Mint Cross #128",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_129",
+    "name": "Tactical Mint Cross #129",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_130",
+    "name": "Pro Gaming Mint Cross #130",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_131",
+    "name": "Classic Mint Cross #131",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_132",
+    "name": "Broad Mint Cross #132",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_133",
+    "name": "Competitive Mint Cross #133",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_134",
+    "name": "Minimal Mint Cross #134",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_135",
+    "name": "Tactical Mint Cross #135",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_136",
+    "name": "Pro Gaming Sky Blue Cross #136",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_137",
+    "name": "Classic Sky Blue Cross #137",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_138",
+    "name": "Broad Sky Blue Cross #138",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_139",
+    "name": "Competitive Sky Blue Cross #139",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_140",
+    "name": "Minimal Sky Blue Cross #140",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_141",
+    "name": "Tactical Sky Blue Cross #141",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_142",
+    "name": "Pro Gaming Sky Blue Cross #142",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_143",
+    "name": "Classic Sky Blue Cross #143",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_144",
+    "name": "Broad Sky Blue Cross #144",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_145",
+    "name": "Competitive Sky Blue Cross #145",
+    "category": "Competitive",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_146",
+    "name": "Minimal Sky Blue Cross #146",
+    "category": "Minimal",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_147",
+    "name": "Tactical Sky Blue Cross #147",
+    "category": "Tactical",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_148",
+    "name": "Pro Gaming Sky Blue Cross #148",
+    "category": "Pro Gaming",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_149",
+    "name": "Classic Sky Blue Cross #149",
+    "category": "Classic",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_150",
+    "name": "Broad Sky Blue Cross #150",
+    "category": "Broad",
+    "shape": "Cross",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_151",
+    "name": "Competitive Lime Gap Cross #151",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_152",
+    "name": "Minimal Lime Gap Cross #152",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_153",
+    "name": "Tactical Lime Gap Cross #153",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_154",
+    "name": "Pro Gaming Lime Gap Cross #154",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_155",
+    "name": "Classic Lime Gap Cross #155",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_156",
+    "name": "Broad Lime Gap Cross #156",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_157",
+    "name": "Competitive Lime Gap Cross #157",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_158",
+    "name": "Minimal Lime Gap Cross #158",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_159",
+    "name": "Tactical Lime Gap Cross #159",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_160",
+    "name": "Pro Gaming Lime Gap Cross #160",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_161",
+    "name": "Classic Lime Gap Cross #161",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_162",
+    "name": "Broad Lime Gap Cross #162",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_163",
+    "name": "Competitive Lime Gap Cross #163",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_164",
+    "name": "Minimal Lime Gap Cross #164",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_165",
+    "name": "Tactical Lime Gap Cross #165",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_166",
+    "name": "Pro Gaming Red Gap Cross #166",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_167",
+    "name": "Classic Red Gap Cross #167",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_168",
+    "name": "Broad Red Gap Cross #168",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_169",
+    "name": "Competitive Red Gap Cross #169",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_170",
+    "name": "Minimal Red Gap Cross #170",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_171",
+    "name": "Tactical Red Gap Cross #171",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_172",
+    "name": "Pro Gaming Red Gap Cross #172",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_173",
+    "name": "Classic Red Gap Cross #173",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_174",
+    "name": "Broad Red Gap Cross #174",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_175",
+    "name": "Competitive Red Gap Cross #175",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_176",
+    "name": "Minimal Red Gap Cross #176",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_177",
+    "name": "Tactical Red Gap Cross #177",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_178",
+    "name": "Pro Gaming Red Gap Cross #178",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_179",
+    "name": "Classic Red Gap Cross #179",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_180",
+    "name": "Broad Red Gap Cross #180",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_181",
+    "name": "Competitive Cyan Gap Cross #181",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_182",
+    "name": "Minimal Cyan Gap Cross #182",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_183",
+    "name": "Tactical Cyan Gap Cross #183",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_184",
+    "name": "Pro Gaming Cyan Gap Cross #184",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_185",
+    "name": "Classic Cyan Gap Cross #185",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_186",
+    "name": "Broad Cyan Gap Cross #186",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_187",
+    "name": "Competitive Cyan Gap Cross #187",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_188",
+    "name": "Minimal Cyan Gap Cross #188",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_189",
+    "name": "Tactical Cyan Gap Cross #189",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_190",
+    "name": "Pro Gaming Cyan Gap Cross #190",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_191",
+    "name": "Classic Cyan Gap Cross #191",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_192",
+    "name": "Broad Cyan Gap Cross #192",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_193",
+    "name": "Competitive Cyan Gap Cross #193",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_194",
+    "name": "Minimal Cyan Gap Cross #194",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_195",
+    "name": "Tactical Cyan Gap Cross #195",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_196",
+    "name": "Pro Gaming Yellow Gap Cross #196",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_197",
+    "name": "Classic Yellow Gap Cross #197",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_198",
+    "name": "Broad Yellow Gap Cross #198",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_199",
+    "name": "Competitive Yellow Gap Cross #199",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_200",
+    "name": "Minimal Yellow Gap Cross #200",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_201",
+    "name": "Tactical Yellow Gap Cross #201",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_202",
+    "name": "Pro Gaming Yellow Gap Cross #202",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_203",
+    "name": "Classic Yellow Gap Cross #203",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_204",
+    "name": "Broad Yellow Gap Cross #204",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_205",
+    "name": "Competitive Yellow Gap Cross #205",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_206",
+    "name": "Minimal Yellow Gap Cross #206",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_207",
+    "name": "Tactical Yellow Gap Cross #207",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_208",
+    "name": "Pro Gaming Yellow Gap Cross #208",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_209",
+    "name": "Classic Yellow Gap Cross #209",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_210",
+    "name": "Broad Yellow Gap Cross #210",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_211",
+    "name": "Competitive Purple Gap Cross #211",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_212",
+    "name": "Minimal Purple Gap Cross #212",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_213",
+    "name": "Tactical Purple Gap Cross #213",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_214",
+    "name": "Pro Gaming Purple Gap Cross #214",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_215",
+    "name": "Classic Purple Gap Cross #215",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_216",
+    "name": "Broad Purple Gap Cross #216",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_217",
+    "name": "Competitive Purple Gap Cross #217",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_218",
+    "name": "Minimal Purple Gap Cross #218",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_219",
+    "name": "Tactical Purple Gap Cross #219",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_220",
+    "name": "Pro Gaming Purple Gap Cross #220",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_221",
+    "name": "Classic Purple Gap Cross #221",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_222",
+    "name": "Broad Purple Gap Cross #222",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_223",
+    "name": "Competitive Purple Gap Cross #223",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_224",
+    "name": "Minimal Purple Gap Cross #224",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_225",
+    "name": "Tactical Purple Gap Cross #225",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_226",
+    "name": "Pro Gaming White Gap Cross #226",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_227",
+    "name": "Classic White Gap Cross #227",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_228",
+    "name": "Broad White Gap Cross #228",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_229",
+    "name": "Competitive White Gap Cross #229",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_230",
+    "name": "Minimal White Gap Cross #230",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_231",
+    "name": "Tactical White Gap Cross #231",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_232",
+    "name": "Pro Gaming White Gap Cross #232",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_233",
+    "name": "Classic White Gap Cross #233",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_234",
+    "name": "Broad White Gap Cross #234",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_235",
+    "name": "Competitive White Gap Cross #235",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_236",
+    "name": "Minimal White Gap Cross #236",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_237",
+    "name": "Tactical White Gap Cross #237",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_238",
+    "name": "Pro Gaming White Gap Cross #238",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_239",
+    "name": "Classic White Gap Cross #239",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_240",
+    "name": "Broad White Gap Cross #240",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_241",
+    "name": "Competitive Orange Gap Cross #241",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_242",
+    "name": "Minimal Orange Gap Cross #242",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_243",
+    "name": "Tactical Orange Gap Cross #243",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_244",
+    "name": "Pro Gaming Orange Gap Cross #244",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_245",
+    "name": "Classic Orange Gap Cross #245",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_246",
+    "name": "Broad Orange Gap Cross #246",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_247",
+    "name": "Competitive Orange Gap Cross #247",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_248",
+    "name": "Minimal Orange Gap Cross #248",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_249",
+    "name": "Tactical Orange Gap Cross #249",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_250",
+    "name": "Pro Gaming Orange Gap Cross #250",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_251",
+    "name": "Classic Orange Gap Cross #251",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_252",
+    "name": "Broad Orange Gap Cross #252",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_253",
+    "name": "Competitive Orange Gap Cross #253",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_254",
+    "name": "Minimal Orange Gap Cross #254",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_255",
+    "name": "Tactical Orange Gap Cross #255",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_256",
+    "name": "Pro Gaming Pink Gap Cross #256",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_257",
+    "name": "Classic Pink Gap Cross #257",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_258",
+    "name": "Broad Pink Gap Cross #258",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_259",
+    "name": "Competitive Pink Gap Cross #259",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_260",
+    "name": "Minimal Pink Gap Cross #260",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_261",
+    "name": "Tactical Pink Gap Cross #261",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_262",
+    "name": "Pro Gaming Pink Gap Cross #262",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_263",
+    "name": "Classic Pink Gap Cross #263",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_264",
+    "name": "Broad Pink Gap Cross #264",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_265",
+    "name": "Competitive Pink Gap Cross #265",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_266",
+    "name": "Minimal Pink Gap Cross #266",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_267",
+    "name": "Tactical Pink Gap Cross #267",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_268",
+    "name": "Pro Gaming Pink Gap Cross #268",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_269",
+    "name": "Classic Pink Gap Cross #269",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_270",
+    "name": "Broad Pink Gap Cross #270",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_271",
+    "name": "Competitive Mint Gap Cross #271",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_272",
+    "name": "Minimal Mint Gap Cross #272",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_273",
+    "name": "Tactical Mint Gap Cross #273",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_274",
+    "name": "Pro Gaming Mint Gap Cross #274",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_275",
+    "name": "Classic Mint Gap Cross #275",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_276",
+    "name": "Broad Mint Gap Cross #276",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_277",
+    "name": "Competitive Mint Gap Cross #277",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_278",
+    "name": "Minimal Mint Gap Cross #278",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_279",
+    "name": "Tactical Mint Gap Cross #279",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_280",
+    "name": "Pro Gaming Mint Gap Cross #280",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_281",
+    "name": "Classic Mint Gap Cross #281",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_282",
+    "name": "Broad Mint Gap Cross #282",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_283",
+    "name": "Competitive Mint Gap Cross #283",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_284",
+    "name": "Minimal Mint Gap Cross #284",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_285",
+    "name": "Tactical Mint Gap Cross #285",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_286",
+    "name": "Pro Gaming Sky Blue Gap Cross #286",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_287",
+    "name": "Classic Sky Blue Gap Cross #287",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_288",
+    "name": "Broad Sky Blue Gap Cross #288",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_289",
+    "name": "Competitive Sky Blue Gap Cross #289",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_290",
+    "name": "Minimal Sky Blue Gap Cross #290",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_291",
+    "name": "Tactical Sky Blue Gap Cross #291",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_292",
+    "name": "Pro Gaming Sky Blue Gap Cross #292",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_293",
+    "name": "Classic Sky Blue Gap Cross #293",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_294",
+    "name": "Broad Sky Blue Gap Cross #294",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_295",
+    "name": "Competitive Sky Blue Gap Cross #295",
+    "category": "Competitive",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_296",
+    "name": "Minimal Sky Blue Gap Cross #296",
+    "category": "Minimal",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_297",
+    "name": "Tactical Sky Blue Gap Cross #297",
+    "category": "Tactical",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_298",
+    "name": "Pro Gaming Sky Blue Gap Cross #298",
+    "category": "Pro Gaming",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_299",
+    "name": "Classic Sky Blue Gap Cross #299",
+    "category": "Classic",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_300",
+    "name": "Broad Sky Blue Gap Cross #300",
+    "category": "Broad",
+    "shape": "Gap Cross",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_301",
+    "name": "Competitive Lime Dot #301",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_302",
+    "name": "Minimal Lime Dot #302",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_303",
+    "name": "Tactical Lime Dot #303",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_304",
+    "name": "Pro Gaming Lime Dot #304",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_305",
+    "name": "Classic Lime Dot #305",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_306",
+    "name": "Broad Lime Dot #306",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_307",
+    "name": "Competitive Lime Dot #307",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_308",
+    "name": "Minimal Lime Dot #308",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_309",
+    "name": "Tactical Lime Dot #309",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_310",
+    "name": "Pro Gaming Lime Dot #310",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_311",
+    "name": "Classic Lime Dot #311",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_312",
+    "name": "Broad Lime Dot #312",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_313",
+    "name": "Competitive Lime Dot #313",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_314",
+    "name": "Minimal Lime Dot #314",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_315",
+    "name": "Tactical Lime Dot #315",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_316",
+    "name": "Pro Gaming Red Dot #316",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_317",
+    "name": "Classic Red Dot #317",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_318",
+    "name": "Broad Red Dot #318",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_319",
+    "name": "Competitive Red Dot #319",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_320",
+    "name": "Minimal Red Dot #320",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_321",
+    "name": "Tactical Red Dot #321",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_322",
+    "name": "Pro Gaming Red Dot #322",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_323",
+    "name": "Classic Red Dot #323",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_324",
+    "name": "Broad Red Dot #324",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_325",
+    "name": "Competitive Red Dot #325",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_326",
+    "name": "Minimal Red Dot #326",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_327",
+    "name": "Tactical Red Dot #327",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_328",
+    "name": "Pro Gaming Red Dot #328",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_329",
+    "name": "Classic Red Dot #329",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_330",
+    "name": "Broad Red Dot #330",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_331",
+    "name": "Competitive Cyan Dot #331",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_332",
+    "name": "Minimal Cyan Dot #332",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_333",
+    "name": "Tactical Cyan Dot #333",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_334",
+    "name": "Pro Gaming Cyan Dot #334",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_335",
+    "name": "Classic Cyan Dot #335",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_336",
+    "name": "Broad Cyan Dot #336",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_337",
+    "name": "Competitive Cyan Dot #337",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_338",
+    "name": "Minimal Cyan Dot #338",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_339",
+    "name": "Tactical Cyan Dot #339",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_340",
+    "name": "Pro Gaming Cyan Dot #340",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_341",
+    "name": "Classic Cyan Dot #341",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_342",
+    "name": "Broad Cyan Dot #342",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_343",
+    "name": "Competitive Cyan Dot #343",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_344",
+    "name": "Minimal Cyan Dot #344",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_345",
+    "name": "Tactical Cyan Dot #345",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_346",
+    "name": "Pro Gaming Yellow Dot #346",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_347",
+    "name": "Classic Yellow Dot #347",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_348",
+    "name": "Broad Yellow Dot #348",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_349",
+    "name": "Competitive Yellow Dot #349",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_350",
+    "name": "Minimal Yellow Dot #350",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_351",
+    "name": "Tactical Yellow Dot #351",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_352",
+    "name": "Pro Gaming Yellow Dot #352",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_353",
+    "name": "Classic Yellow Dot #353",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_354",
+    "name": "Broad Yellow Dot #354",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_355",
+    "name": "Competitive Yellow Dot #355",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_356",
+    "name": "Minimal Yellow Dot #356",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_357",
+    "name": "Tactical Yellow Dot #357",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_358",
+    "name": "Pro Gaming Yellow Dot #358",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_359",
+    "name": "Classic Yellow Dot #359",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_360",
+    "name": "Broad Yellow Dot #360",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FFFF00",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_361",
+    "name": "Competitive Purple Dot #361",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_362",
+    "name": "Minimal Purple Dot #362",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_363",
+    "name": "Tactical Purple Dot #363",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_364",
+    "name": "Pro Gaming Purple Dot #364",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_365",
+    "name": "Classic Purple Dot #365",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_366",
+    "name": "Broad Purple Dot #366",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_367",
+    "name": "Competitive Purple Dot #367",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_368",
+    "name": "Minimal Purple Dot #368",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_369",
+    "name": "Tactical Purple Dot #369",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_370",
+    "name": "Pro Gaming Purple Dot #370",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_371",
+    "name": "Classic Purple Dot #371",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_372",
+    "name": "Broad Purple Dot #372",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_373",
+    "name": "Competitive Purple Dot #373",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_374",
+    "name": "Minimal Purple Dot #374",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_375",
+    "name": "Tactical Purple Dot #375",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#A855F7",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_376",
+    "name": "Pro Gaming White Dot #376",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_377",
+    "name": "Classic White Dot #377",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_378",
+    "name": "Broad White Dot #378",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_379",
+    "name": "Competitive White Dot #379",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_380",
+    "name": "Minimal White Dot #380",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_381",
+    "name": "Tactical White Dot #381",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_382",
+    "name": "Pro Gaming White Dot #382",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_383",
+    "name": "Classic White Dot #383",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_384",
+    "name": "Broad White Dot #384",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_385",
+    "name": "Competitive White Dot #385",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_386",
+    "name": "Minimal White Dot #386",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_387",
+    "name": "Tactical White Dot #387",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_388",
+    "name": "Pro Gaming White Dot #388",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_389",
+    "name": "Classic White Dot #389",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_390",
+    "name": "Broad White Dot #390",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FFFFFF",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_391",
+    "name": "Competitive Orange Dot #391",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_392",
+    "name": "Minimal Orange Dot #392",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_393",
+    "name": "Tactical Orange Dot #393",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_394",
+    "name": "Pro Gaming Orange Dot #394",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_395",
+    "name": "Classic Orange Dot #395",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_396",
+    "name": "Broad Orange Dot #396",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_397",
+    "name": "Competitive Orange Dot #397",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_398",
+    "name": "Minimal Orange Dot #398",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_399",
+    "name": "Tactical Orange Dot #399",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_400",
+    "name": "Pro Gaming Orange Dot #400",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_401",
+    "name": "Classic Orange Dot #401",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_402",
+    "name": "Broad Orange Dot #402",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_403",
+    "name": "Competitive Orange Dot #403",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_404",
+    "name": "Minimal Orange Dot #404",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_405",
+    "name": "Tactical Orange Dot #405",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FF9900",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_406",
+    "name": "Pro Gaming Pink Dot #406",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_407",
+    "name": "Classic Pink Dot #407",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_408",
+    "name": "Broad Pink Dot #408",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_409",
+    "name": "Competitive Pink Dot #409",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_410",
+    "name": "Minimal Pink Dot #410",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_411",
+    "name": "Tactical Pink Dot #411",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_412",
+    "name": "Pro Gaming Pink Dot #412",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_413",
+    "name": "Classic Pink Dot #413",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_414",
+    "name": "Broad Pink Dot #414",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_415",
+    "name": "Competitive Pink Dot #415",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_416",
+    "name": "Minimal Pink Dot #416",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_417",
+    "name": "Tactical Pink Dot #417",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_418",
+    "name": "Pro Gaming Pink Dot #418",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_419",
+    "name": "Classic Pink Dot #419",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_420",
+    "name": "Broad Pink Dot #420",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#FF007F",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_421",
+    "name": "Competitive Mint Dot #421",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_422",
+    "name": "Minimal Mint Dot #422",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_423",
+    "name": "Tactical Mint Dot #423",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_424",
+    "name": "Pro Gaming Mint Dot #424",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_425",
+    "name": "Classic Mint Dot #425",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_426",
+    "name": "Broad Mint Dot #426",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_427",
+    "name": "Competitive Mint Dot #427",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_428",
+    "name": "Minimal Mint Dot #428",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_429",
+    "name": "Tactical Mint Dot #429",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_430",
+    "name": "Pro Gaming Mint Dot #430",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_431",
+    "name": "Classic Mint Dot #431",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_432",
+    "name": "Broad Mint Dot #432",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_433",
+    "name": "Competitive Mint Dot #433",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_434",
+    "name": "Minimal Mint Dot #434",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_435",
+    "name": "Tactical Mint Dot #435",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#00FF99",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_436",
+    "name": "Pro Gaming Sky Blue Dot #436",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_437",
+    "name": "Classic Sky Blue Dot #437",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_438",
+    "name": "Broad Sky Blue Dot #438",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_439",
+    "name": "Competitive Sky Blue Dot #439",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_440",
+    "name": "Minimal Sky Blue Dot #440",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_441",
+    "name": "Tactical Sky Blue Dot #441",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_442",
+    "name": "Pro Gaming Sky Blue Dot #442",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_443",
+    "name": "Classic Sky Blue Dot #443",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_444",
+    "name": "Broad Sky Blue Dot #444",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_445",
+    "name": "Competitive Sky Blue Dot #445",
+    "category": "Competitive",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_446",
+    "name": "Minimal Sky Blue Dot #446",
+    "category": "Minimal",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_447",
+    "name": "Tactical Sky Blue Dot #447",
+    "category": "Tactical",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_448",
+    "name": "Pro Gaming Sky Blue Dot #448",
+    "category": "Pro Gaming",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_449",
+    "name": "Classic Sky Blue Dot #449",
+    "category": "Classic",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_450",
+    "name": "Broad Sky Blue Dot #450",
+    "category": "Broad",
+    "shape": "Dot",
+    "color": "#38BDF8",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_451",
+    "name": "Competitive Lime Circle #451",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_452",
+    "name": "Minimal Lime Circle #452",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_453",
+    "name": "Tactical Lime Circle #453",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_454",
+    "name": "Pro Gaming Lime Circle #454",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_455",
+    "name": "Classic Lime Circle #455",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_456",
+    "name": "Broad Lime Circle #456",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_457",
+    "name": "Competitive Lime Circle #457",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_458",
+    "name": "Minimal Lime Circle #458",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_459",
+    "name": "Tactical Lime Circle #459",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_460",
+    "name": "Pro Gaming Lime Circle #460",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_461",
+    "name": "Classic Lime Circle #461",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_462",
+    "name": "Broad Lime Circle #462",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_463",
+    "name": "Competitive Lime Circle #463",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_464",
+    "name": "Minimal Lime Circle #464",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_465",
+    "name": "Tactical Lime Circle #465",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#00FF00",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_466",
+    "name": "Pro Gaming Red Circle #466",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_467",
+    "name": "Classic Red Circle #467",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_468",
+    "name": "Broad Red Circle #468",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_469",
+    "name": "Competitive Red Circle #469",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_470",
+    "name": "Minimal Red Circle #470",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_471",
+    "name": "Tactical Red Circle #471",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_472",
+    "name": "Pro Gaming Red Circle #472",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_473",
+    "name": "Classic Red Circle #473",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_474",
+    "name": "Broad Red Circle #474",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_475",
+    "name": "Competitive Red Circle #475",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_476",
+    "name": "Minimal Red Circle #476",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_477",
+    "name": "Tactical Red Circle #477",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_478",
+    "name": "Pro Gaming Red Circle #478",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_479",
+    "name": "Classic Red Circle #479",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_480",
+    "name": "Broad Red Circle #480",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#FF0000",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_481",
+    "name": "Competitive Cyan Circle #481",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_482",
+    "name": "Minimal Cyan Circle #482",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_483",
+    "name": "Tactical Cyan Circle #483",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_484",
+    "name": "Pro Gaming Cyan Circle #484",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_485",
+    "name": "Classic Cyan Circle #485",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 2
+  },
+  {
+    "id": "preset_486",
+    "name": "Broad Cyan Circle #486",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 18,
+    "thickness": 3
+  },
+  {
+    "id": "preset_487",
+    "name": "Competitive Cyan Circle #487",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 1
+  },
+  {
+    "id": "preset_488",
+    "name": "Minimal Cyan Circle #488",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 2
+  },
+  {
+    "id": "preset_489",
+    "name": "Tactical Cyan Circle #489",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 22,
+    "thickness": 3
+  },
+  {
+    "id": "preset_490",
+    "name": "Pro Gaming Cyan Circle #490",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 1
+  },
+  {
+    "id": "preset_491",
+    "name": "Classic Cyan Circle #491",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 2
+  },
+  {
+    "id": "preset_492",
+    "name": "Broad Cyan Circle #492",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 26,
+    "thickness": 3
+  },
+  {
+    "id": "preset_493",
+    "name": "Competitive Cyan Circle #493",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 1
+  },
+  {
+    "id": "preset_494",
+    "name": "Minimal Cyan Circle #494",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 2
+  },
+  {
+    "id": "preset_495",
+    "name": "Tactical Cyan Circle #495",
+    "category": "Tactical",
+    "shape": "Circle",
+    "color": "#00FFFF",
+    "size": 30,
+    "thickness": 3
+  },
+  {
+    "id": "preset_496",
+    "name": "Pro Gaming Yellow Circle #496",
+    "category": "Pro Gaming",
+    "shape": "Circle",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 1
+  },
+  {
+    "id": "preset_497",
+    "name": "Classic Yellow Circle #497",
+    "category": "Classic",
+    "shape": "Circle",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 2
+  },
+  {
+    "id": "preset_498",
+    "name": "Broad Yellow Circle #498",
+    "category": "Broad",
+    "shape": "Circle",
+    "color": "#FFFF00",
+    "size": 14,
+    "thickness": 3
+  },
+  {
+    "id": "preset_499",
+    "name": "Competitive Yellow Circle #499",
+    "category": "Competitive",
+    "shape": "Circle",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 1
+  },
+  {
+    "id": "preset_500",
+    "name": "Minimal Yellow Circle #500",
+    "category": "Minimal",
+    "shape": "Circle",
+    "color": "#FFFF00",
+    "size": 18,
+    "thickness": 2
+  }
+]
