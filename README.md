@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="OpenCrosshair.png" alt="OpenCrosshair Logo" width="450">
+  <img src="./OpenCrosshair.png" alt="OpenCrosshair Logo" width="450">
 
   <h3>An upcoming open-source, zero-latency crosshair overlay built natively in Python for Linux.</h3>
 
@@ -40,9 +40,9 @@
 
 ## 🗺️ Roadmap
 
-- [ ] Repository setup & architecture design
-- [ ] Core Python transparent overlay implementation
-- [ ] Crosshair editor UI & preset saving
+- [x] Repository setup & architecture design
+- [x] Core Python transparent overlay implementation
+- [x] Crosshair editor UI & preset saving
 - [ ] Packaging (Flatpak / AppImage) & stable releases
 
 ---
