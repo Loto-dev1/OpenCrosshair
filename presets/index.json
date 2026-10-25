@@ -1,0 +1,2116 @@
+{
+  "app": "OpenCrosshair",
+  "format": 1,
+  "count": 26,
+  "crosshairs": [
+    {
+      "name": "Dot",
+      "source": "ours",
+      "profile": {
+        "name": "Dot",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 4,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Mini Dot",
+      "source": "ours",
+      "profile": {
+        "name": "Mini Dot",
+        "color": "#FF2D55",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 2,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Classic",
+      "source": "ours",
+      "profile": {
+        "name": "Classic",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 8,
+          "thickness": 2,
+          "gap": 5,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "T-Style",
+      "source": "ours",
+      "profile": {
+        "name": "T-Style",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": true,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 8,
+          "thickness": 2,
+          "gap": 5,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Precision",
+      "source": "ours",
+      "profile": {
+        "name": "Precision",
+        "color": "#FFFFFF",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 5,
+          "thickness": 1,
+          "gap": 3,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Thin Cross",
+      "source": "ours",
+      "profile": {
+        "name": "Thin Cross",
+        "color": "#FFFFFF",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 14,
+          "thickness": 1,
+          "gap": 2,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Round Cross",
+      "source": "ours",
+      "profile": {
+        "name": "Round Cross",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": true,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 9,
+          "thickness": 3,
+          "gap": 5,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Double Cross",
+      "source": "ours",
+      "profile": {
+        "name": "Double Cross",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 5,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": true,
+          "length": 6,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Tactical",
+      "source": "ours",
+      "profile": {
+        "name": "Tactical",
+        "color": "#FF3B6B",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": true,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Ring & Dot",
+      "source": "ours",
+      "profile": {
+        "name": "Ring & Dot",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": true,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Big Ring",
+      "source": "ours",
+      "profile": {
+        "name": "Big Ring",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 2,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": true,
+          "radius": 30,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Segment Ring",
+      "source": "ours",
+      "profile": {
+        "name": "Segment Ring",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": true,
+          "radius": 20,
+          "thickness": 2.0,
+          "segments": 4,
+          "seg_gap": 50,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Sniper",
+      "source": "ours",
+      "profile": {
+        "name": "Sniper",
+        "color": "#FFFFFF",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 34,
+          "thickness": 1,
+          "gap": 0,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": true,
+          "radius": 26,
+          "thickness": 1,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Chevron",
+      "source": "ours",
+      "profile": {
+        "name": "Chevron",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 2,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": true,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Neon",
+      "source": "ours",
+      "profile": {
+        "name": "Neon",
+        "color": "#22D3EE",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": false,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 8,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": true,
+          "size": 9,
+          "strength": 0.8
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Neon Ring",
+      "source": "ours",
+      "profile": {
+        "name": "Neon Ring",
+        "color": "#2F7BFF",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": false,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": true,
+          "radius": 18,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": true,
+          "size": 10,
+          "strength": 0.9
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Rainbow",
+      "source": "ours",
+      "profile": {
+        "name": "Rainbow",
+        "color": "#00FF88",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 8,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "rainbow",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pulsing Dot",
+      "source": "ours",
+      "profile": {
+        "name": "Pulsing Dot",
+        "color": "#FF3B6B",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 4,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "pulse",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Yellow",
+      "source": "ours",
+      "profile": {
+        "name": "Yellow",
+        "color": "#FFE600",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 8,
+          "thickness": 2,
+          "gap": 5,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pro Minimal White Cross",
+      "source": "community (Crosshair X preset, converted)",
+      "profile": {
+        "name": "Pro Minimal White Cross",
+        "color": "#FFFFFF",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": false,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 4.0,
+          "thickness": 2.0,
+          "gap": 4.0,
+          "color": "#FFFFFF",
+          "opacity": 1
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pro Compact Red Cross",
+      "source": "community (Crosshair X preset, converted)",
+      "profile": {
+        "name": "Pro Compact Red Cross",
+        "color": "#FF0000",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": false,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 5.0,
+          "thickness": 2.0,
+          "gap": 0.0,
+          "color": "#FF0000",
+          "opacity": 0.99
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pro Neon Green Gap",
+      "source": "community (Crosshair X preset, converted)",
+      "profile": {
+        "name": "Pro Neon Green Gap",
+        "color": "#04FF19",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": false,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 5.0,
+          "thickness": 2.0,
+          "gap": 5.0,
+          "color": "#04FF19",
+          "opacity": 1
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pro Blue Outline Cross",
+      "source": "community (Crosshair X preset, converted)",
+      "profile": {
+        "name": "Pro Blue Outline Cross",
+        "color": "#FFFFFF",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#0000FF",
+          "thickness": 1.0,
+          "opacity": 0.8
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 4.0,
+          "thickness": 2.0,
+          "gap": 2.0,
+          "color": "#FFFFFF",
+          "opacity": 1
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pro Red Outline Cross",
+      "source": "community (Crosshair X preset, converted)",
+      "profile": {
+        "name": "Pro Red Outline Cross",
+        "color": "#FFFFFF",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": true,
+          "color": "#FF0000",
+          "thickness": 1.0,
+          "opacity": 0.8
+        },
+        "dot": {
+          "on": false,
+          "size": 3.0,
+          "shape": "circle",
+          "color": ""
+        },
+        "inner": {
+          "on": true,
+          "length": 4.0,
+          "thickness": 2.0,
+          "gap": 2.0,
+          "color": "#FFFFFF",
+          "opacity": 1
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pro Yellow Ring Dot",
+      "source": "community (Crosshair X preset, converted)",
+      "profile": {
+        "name": "Pro Yellow Ring Dot",
+        "color": "#FFF100",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": false,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 1.4,
+          "shape": "circle",
+          "color": "#FFF100"
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": true,
+          "radius": 4.55,
+          "thickness": 1.3,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": "#FFFFFF"
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": []
+      }
+    },
+    {
+      "name": "Pro Tactical Red Dot Box",
+      "source": "community (Crosshair X preset, converted)",
+      "profile": {
+        "name": "Pro Tactical Red Dot Box",
+        "color": "#05FF00",
+        "opacity": 1.0,
+        "scale": 1.0,
+        "offset_x": 0,
+        "offset_y": 0,
+        "rotation": 0,
+        "t_style": false,
+        "round_caps": false,
+        "match": "",
+        "outline": {
+          "on": false,
+          "color": "#000000",
+          "thickness": 1.0,
+          "opacity": 1.0
+        },
+        "dot": {
+          "on": true,
+          "size": 6.0,
+          "shape": "circle",
+          "color": "#05FF00"
+        },
+        "inner": {
+          "on": false,
+          "length": 6,
+          "thickness": 2,
+          "gap": 4,
+          "color": "",
+          "opacity": 1.0
+        },
+        "outer": {
+          "on": false,
+          "length": 4,
+          "thickness": 2,
+          "gap": 12,
+          "color": "",
+          "opacity": 1.0
+        },
+        "ring": {
+          "on": false,
+          "radius": 16,
+          "thickness": 2.0,
+          "segments": 0,
+          "seg_gap": 30,
+          "color": ""
+        },
+        "chevron": {
+          "on": false,
+          "size": 10,
+          "thickness": 2.0,
+          "gap": 8,
+          "angle": 40,
+          "color": ""
+        },
+        "glow": {
+          "on": false,
+          "size": 6,
+          "strength": 0.6
+        },
+        "anim": {
+          "mode": "none",
+          "speed": 1.0
+        },
+        "image": {
+          "on": false,
+          "path": "",
+          "size": 64,
+          "tint": false
+        },
+        "extras": [
+          {
+            "dir": "bottom",
+            "gap": 52.0,
+            "length": 4.0,
+            "thickness": 10.0,
+            "opacity": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "rot": 45.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "left",
+            "gap": 52.0,
+            "length": 4.0,
+            "thickness": 10.0,
+            "opacity": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "rot": 45.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "right",
+            "gap": 52.0,
+            "length": 4.0,
+            "thickness": 10.0,
+            "opacity": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "rot": 45.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "top",
+            "gap": 52.0,
+            "length": 4.0,
+            "thickness": 10.0,
+            "opacity": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "rot": 45.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "left",
+            "gap": 48.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": 3.0,
+            "y": -14.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "top",
+            "gap": 44.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": -14.0,
+            "y": 1.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "right",
+            "gap": 52.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": -5.0,
+            "y": -14.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "top",
+            "gap": 32.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": 14.0,
+            "y": -5.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "left",
+            "gap": 38.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": -2.0,
+            "y": 14.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "right",
+            "gap": 10.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": 16.0,
+            "y": 14.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "bottom",
+            "gap": 38.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": -14.0,
+            "y": 2.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          },
+          {
+            "dir": "bottom",
+            "gap": 36.0,
+            "length": 4.0,
+            "thickness": 4.0,
+            "opacity": 1.0,
+            "x": 15.0,
+            "y": 3.0,
+            "rot": 0.0,
+            "color": "#FF0000"
+          }
+        ]
+      }
+    }
+  ]
+}
